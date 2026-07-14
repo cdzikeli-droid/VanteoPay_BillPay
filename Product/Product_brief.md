@@ -8,10 +8,10 @@
  - Deliver a secure, intuitive Bill Pay experience that allows customers to discover billers, make one-time and scheduled payments, track payment status, and manage their payments from a single application.
 
 #Business Objectives
-Increase primary account usage
-Improve customer retention and engagement
-Grow recurring payment activity
-Expand Vanteo's digital banking capabilities
+ - Increase primary account usage
+- Improve customer retention and engagement
+ - Grow recurring payment activity
+ - Expand Vanteo's digital banking capabilities
 
 #V1 Scope
  - Search and add billers and payees
