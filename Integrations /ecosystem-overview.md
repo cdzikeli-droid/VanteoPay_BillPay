@@ -55,7 +55,7 @@ Vanteo Connect Mobile App
 
 ## Related Documents
 
-- `/product/product-brief.md`
+- `/product/product_brief.md`
 - `/prds/`
 - `/requirements/business-rules.md`
 - `/requirements/payment-state-model.md`
